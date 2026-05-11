@@ -66,60 +66,18 @@ I'm a student in Singapore who builds things at the intersection of **AI, IoT, a
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <th>Repo</th>
-    <th>Description</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/sleep-apnea-monitor"><b>sleep-apnea-monitor</b></a></td>
-    <td>A wearable, a web dashboard, a Telegram bot, and a warm AI sidekick named Kirby. Reads SpO₂ and heart rate from an ESP32 fingertip sensor, charts them live, and Kirby (Claude Haiku 4.5) coaches when something looks off.</td>
-    <td>Python · Flask · ESP32 · Claude · Telegram</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/smartwatch-speech-analysis"><b>smartwatch-speech-analysis</b></a></td>
-    <td>Analyzes smartwatch speech data from students with autism. Processes Whisper transcripts, pitch (Parselmouth) and loudness (librosa) to flag anomalies and count empathetic keyword usage over time.</td>
-    <td>Python · Pandas · NumPy · Whisper</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/Career-Quest-Map"><b>Career-Quest-Map</b></a></td>
-    <td>AI-guided pathway discovery game for Singapore youth. Turns career exploration into a short, story-driven game that surfaces strengths, narrows interests, and leaves users with concrete micro-quests.</td>
-    <td>Python · Flask · Claude</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/instrument-classification-transfer-learning"><b>instrument-classification-transfer-learning</b></a></td>
-    <td>Deep learning for 8-class musical instrument image classification. Compares a custom CNN against VGG16, ResNet152V2, and EfficientNetV2L with structured fine-tuning — best model reaches <b>98.83%</b> val accuracy.</td>
-    <td>Python · TensorFlow · Keras · scikit-learn</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/smart-bakery-monitor"><b>smart-bakery-monitor</b></a></td>
-    <td>End-to-end IoT environmental monitoring for bakeries. Raspberry Pi + BME280 + flame sensor stream telemetry over MQTT to a Flask dashboard, with MySQL/InfluxDB persistence, Grafana visualisation, and email fire alerts.</td>
-    <td>Python · Raspberry Pi · MQTT · InfluxDB · Grafana</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/my_navigator_kirby"><b>my_navigator_kirby</b></a></td>
-    <td>Voice-based navigation assistant with a Kirby persona. Speak a destination and Claude (Haiku) corrects mishearings using geolocation context, then routes you via Google Maps Embed with driving, walking, or transit modes.</td>
-    <td>JS (ES6) · HTML/CSS · Claude · Google Maps · Web Speech API</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/grid-dev-collab-platform"><b>grid-dev-collab-platform</b></a></td>
-    <td>Full-stack platform matching hackathon teammates by skill complementarity and availability overlap (Jaccard). Dual OAuth (GitHub + Google), real-time messaging, mutual-match notifications, and auto-generated Discord team channels.</td>
-    <td>Python · Flask · SQLite · Vanilla JS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/Museek"><b>Museek</b></a></td>
-    <td>Full-stack Blazor Server music streaming app with role-based access, CRUD catalog management, discovery, search, and an in-page JS audio player wired through Blazor JS interop.</td>
-    <td>C# · ASP.NET Core · Blazor · EF Core</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zinhmuepaing/Garment-Worker-Productivity"><b>Garment-Worker-Productivity</b></a></td>
-    <td>ML classification of garment worker productivity (Low / Medium / High) on a Bangladesh factory dataset. Includes EDA, median imputation, one-hot encoding, MinMax scaling, and comparison across classifiers.</td>
-    <td>Python · Pandas · Jupyter · scikit-learn</td>
-  </tr>
-</table>
+- 🌐 **[My Portfolio](https://paing-portfolio.com)** — Personal site with the long-form version of everything below.
+- 🏥 **[Sleep Apnea Monitor with Kirby](https://github.com/zinhmuepaing/sleep-apnea-monitor)** — ESP32 wearable streams SpO₂ and heart rate to a Flask dashboard, with Kirby (Claude Haiku 4.5) coaching on web and Telegram.
+- ⌚ **[Smartwatch Speech Analytics for Autistic Students](https://github.com/zinhmuepaing/smartwatch-speech-analysis)** — Whisper + Parselmouth pipeline that scores empathetic speech, pitch, and loudness from smartwatch audio.
+- 🗺️ **[Career Quest Map](https://github.com/zinhmuepaing/Career-Quest-Map)** — AI-guided pathway discovery game that turns career exploration into a short, story-driven quest.
+- 🎸 **[Musical Instrument Image Classification](https://github.com/zinhmuepaing/instrument-classification-transfer-learning)** — Custom CNN vs. VGG16 / ResNet152V2 / EfficientNetV2L transfer learning; best model hits 98.83% val accuracy.
+- 🥐 **[Smart Bakery Monitor](https://github.com/zinhmuepaing/smart-bakery-monitor)** — Raspberry Pi + BME280 + flame sensor over MQTT, with MySQL, InfluxDB, Grafana, and email fire alerts.
+- 👾 **[My Navigator Kirby](https://github.com/zinhmuepaing/my_navigator_kirby)** — Voice-first navigator that lets Claude Haiku correct mishearings and routes you via Google Maps Embed.
+- 🏢 **[Grid](https://github.com/zinhmuepaing/grid-dev-collab-platform)** — Hackathon-teammate matchmaker scoring skill complementarity and availability overlap, with dual OAuth and auto Discord channels.
+- 🎵 **[Museek](https://github.com/zinhmuepaing/Museek)** — Blazor Server music streaming app with role-based access, CRUD catalog, and an in-page JS audio player.
+- 🧵 **[Garment Worker Productivity](https://github.com/zinhmuepaing/Garment-Worker-Productivity)** — ML classification (Low / Medium / High) on a Bangladesh garment-factory dataset, end-to-end EDA to model comparison.
 
 ---
 
