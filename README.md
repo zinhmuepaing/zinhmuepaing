@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📍 Singapore &nbsp;·&nbsp; 🤖 Full-Stack AI Engineer &nbsp;·&nbsp; 🤖 AI / IoT / ML
+  📍 Singapore &nbsp;·&nbsp; 🤖 Full-Stack AI Engineer &nbsp;·&nbsp; 🧠🌐 AI / IoT/ ML
 </p>
 
 ---
