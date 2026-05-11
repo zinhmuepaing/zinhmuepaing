@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  📍 Singapore &nbsp;·&nbsp; 🎓 Student &nbsp;·&nbsp; 🤖 AI / IoT / ML
+  📍 Singapore &nbsp;·&nbsp; 🤖 Full-Stack AI Engineer &nbsp;·&nbsp; 🤖 AI / IoT / ML
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a student in Singapore who builds things at the intersection of **AI, IoT, and full-stack web**. I like turning hardware signals into useful software — wearables that read your vitals, watches that listen for empathy, dashboards that watch ovens. My favourite projects pair a small physical device with a warm AI sidekick. Always shipping, often debugging.
+I am a Final-Year Diploma student in Computer Engineering at Temasek Polytechnic who builds things at the intersection of **AI, IoT, and full-stack web**. I like turning hardware signals into useful software, wearables that read your vitals, watches that listen for empathy and dashboards that watch ovens. My favourite projects pair a small physical device with a warm AI sidekick. Always shipping, often debugging.
 
 ---
 
@@ -85,8 +85,8 @@ I'm a student in Singapore who builds things at the intersection of **AI, IoT, a
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=zinhmuepaing&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinhmuepaing&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zinhmuepaing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinhmuepaing&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="top langs"/></td>
   </tr>
 </table>
 
