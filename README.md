@@ -83,12 +83,10 @@ I am a Final-Year Diploma student in Computer Engineering at Temasek Polytechnic
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=zinhmuepaing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinhmuepaing&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="top langs"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/zinhmuepaing?style=for-the-badge&logo=github&color=1a1b27&labelColor=414868" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/zinhmuepaing?style=for-the-badge&logo=github&color=1a1b27&labelColor=414868" alt="stars"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zinhmuepaing&theme=tokyonight&hide_border=true" alt="streak"/>
