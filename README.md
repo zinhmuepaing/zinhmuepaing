@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📍 Singapore &nbsp;·&nbsp; 🤖 Full-Stack AI Engineer &nbsp;·&nbsp; 🧠🌐 AI / IoT/ ML
+  📍 Singapore &nbsp;·&nbsp; 🤖 Full-Stack AI Engineer &nbsp;·&nbsp; 🧠 AI / IoT/ ML
 </p>
 
 ---
@@ -39,7 +39,6 @@ I am a Final-Year Diploma student in Computer Engineering at Temasek Polytechnic
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 **Hardware**
