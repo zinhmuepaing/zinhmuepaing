@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Full-Stack%20AI%20Engineer!;3x%20Engineering%20Scholarship%20Recipient!;President%20%40%20Computer%20Engineering%20NeTwork%20%28CENT%29!;📍%20Singapore!&font=Fira%20Code&center=true&width=650&height=50&duration=4000&pause=1000" alt="Zin Hmue Paing - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A4%96+Full-Stack+AI+Engineer!;3x+Engineering+Scholarship+Recipient!;President+%40+Computer+Engineering+NeTwork+%28CENT%29!;%F0%9F%93%8D+Singapore!&font=Fira+Code&center=true&width=650&height=50&duration=4000&pause=1000&v=1" alt="Zin Hmue Paing - README Typing SVG">
 </p>
 
 ---
